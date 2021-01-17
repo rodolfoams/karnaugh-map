@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/karnaugh-map/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/karnaugh-map/static/js/main.e09021ed.chunk.js",
+    "main.js.map": "/karnaugh-map/static/js/main.e09021ed.chunk.js.map",
+    "runtime-main.js": "/karnaugh-map/static/js/runtime-main.e6abe188.js",
+    "runtime-main.js.map": "/karnaugh-map/static/js/runtime-main.e6abe188.js.map",
+    "static/js/2.edb93f5e.chunk.js": "/karnaugh-map/static/js/2.edb93f5e.chunk.js",
+    "static/js/2.edb93f5e.chunk.js.map": "/karnaugh-map/static/js/2.edb93f5e.chunk.js.map",
+    "static/js/3.b9879337.chunk.js": "/karnaugh-map/static/js/3.b9879337.chunk.js",
+    "static/js/3.b9879337.chunk.js.map": "/karnaugh-map/static/js/3.b9879337.chunk.js.map",
+    "index.html": "/karnaugh-map/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/karnaugh-map/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.edb93f5e.chunk.js.LICENSE.txt": "/karnaugh-map/static/js/2.edb93f5e.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/karnaugh-map/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e6abe188.js",
+    "static/js/2.edb93f5e.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.e09021ed.chunk.js"
+  ]
+}
